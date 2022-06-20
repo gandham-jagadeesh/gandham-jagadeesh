@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gandham-jagadeesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @gandham-jagadeesh.
+- 👀 I’m interested in Software,programming.
+- 👋 I am currently learning WebDevelopment,
+- 👋 I know programming languages like python,java,c
+- 🌱 I’m a second-year undergrad studying computer science 
 
 <!---
 gandham-jagadeesh/gandham-jagadeesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
