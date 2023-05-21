@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gandham jagadeesh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="" height="150" alt="">
+<img align="right" src="https://img.wattpad.com/f6fd231593210c5cb5b6ad88a469ef5891279693/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f3268414946623843556b575241673d3d2d3537323734383132382e3135326434353638396239376165373631333335333731333936392e676966" width="" height="150" alt="">
 
 - 🔭 I’m currently working on [Chat Application](https://github.com/gandham-jagadeesh/Jagguchat)
 
@@ -15,6 +15,7 @@
 
 - 📫 How to reach me **gandhamphotos@gmail.com**
 
+- 🎦 Favorite Anime  **Haikyu!!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gandham-jagadeesh-677724265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gandham-jagadeesh-677724265/" height="30" width="40" /></a>
