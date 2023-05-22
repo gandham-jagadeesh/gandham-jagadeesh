@@ -16,6 +16,10 @@
 - 📫 How to reach me **gandhamphotos@gmail.com**
 
 - 🎦 Favorite Anime  **Haikyu!!**
+
+- 📘 Book Reading  **System Design Interview An Insider's Guide**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gandham-jagadeesh-677724265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gandham-jagadeesh-677724265/" height="30" width="40" /></a>
