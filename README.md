@@ -11,8 +11,6 @@
 
 - 📝 I regularly write articles on [https://github.com/gandham-jagadeesh/mernBlog_frontend](https://github.com/gandham-jagadeesh/mernBlog_frontend)
 
-- 💬 Ask me about **react,Nodejs**
-
 - 📫 How to reach me **gandhamphotos@gmail.com**
 
 - 🎦 Favorite Anime  **Haikyu!!**
